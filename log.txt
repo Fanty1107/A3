@@ -1,0 +1,22 @@
+Sun May 18 18:40:37 GMT-03:00 2025 - Aberto: C:\Users\edufa\Videos\2024-10-17 18-07-18.mkv
+Sun May 18 18:41:04 GMT-03:00 2025 - Aberto: D:\Riot Games
+Wed May 21 18:54:21 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\TOKYO GHOUL VOL.11.pdf
+Wed May 21 18:57:33 GMT-03:00 2025 - Renomeado: C:\Users\edufa\Downloads\2025-05-18-16-36-26-Trim-Trim.mp4 para C:\Users\edufa\Downloads\videomaneiro
+Wed May 21 19:02:32 GMT-03:00 2025 - Renomeado: C:\Users\edufa\Downloads\TOKYO GHOUL VOL.11.pdf para C:\Users\edufa\Downloads\tokyo ghoul vol 11.pdf
+Wed May 21 19:04:15 GMT-03:00 2025 - Movido: C:\Users\edufa\Downloads\videomaneiro.mp4 para D:\Aprenda Guitarra do Zero em 45 Dias, com Mauricio Alabama\videomaneiro.mp4
+Wed May 21 19:04:54 GMT-03:00 2025 - Excluído: C:\Users\edufa\Downloads\Soul Reaver Draven.zip
+Wed May 21 19:13:24 GMT-03:00 2025 - Excluído: D:\ASTRONEER v1.29.103.0
+Wed May 21 21:35:37 GMT-03:00 2025 - Excluído: C:\Users\edufa\Downloads\iG Camille.zip
+Wed May 21 22:28:54 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\tokyo ghoul vol 11.pdf
+Wed May 21 22:29:15 GMT-03:00 2025 - Renomeado: C:\Users\edufa\Downloads\tokyo ghoul vol 11.pdf para C:\Users\edufa\Downloads\bnfiuawfbwafgaw.pdf
+Thu May 22 09:38:45 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\High Noon Ashe.zip
+Thu May 22 09:39:06 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\Exercícios 13 de maio de 2025.docx
+Thu May 22 09:41:14 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\Resistance Jayce.zip
+Thu May 22 09:41:30 GMT-03:00 2025 - Aberto: C:\Users\edufa\Downloads\desktop.ini
+Thu May 22 09:42:15 GMT-03:00 2025 - Renomeado: C:\Users\edufa\Downloads\bnfiuawfbwafgaw.pdf para C:\Users\edufa\Downloads\tokyo ghoul vol 11.pdf
+Thu May 22 09:43:22 GMT-03:00 2025 - Movido: C:\Users\edufa\Downloads\tokyo ghoul vol 11.pdf para C:\Games\tokyo ghoul vol 11.pdf
+Thu May 22 16:23:25 GMT-03:00 2025 - Cópia criada: C:\Users\edufa\Downloads\COPIA_be40d29d8b0c819631d2d67d38190852.gif
+Tue May 27 19:51:34 GMT-03:00 2025 - Copiado: C:\Users\edufa\Downloads\Battle Academia Kayn.zip para C:\Users\edufa\OneDrive\Documentos\Battle Academia Kayn.zip
+Tue May 27 19:54:55 GMT-03:00 2025 - Copiado: C:\Users\edufa\Downloads\be40d29d8b0c819631d2d67d38190852.gif para C:\Users\edufa\Downloads\be40d29d8b0c819631d2d67d38190852.gif
+Tue May 27 19:55:18 GMT-03:00 2025 - Movido: C:\Users\edufa\Downloads\Battle Academia Kayn.zip para C:\Users\edufa\Documents\Meus Vídeos\Battle Academia Kayn.zip
+Tue May 27 19:56:14 GMT-03:00 2025 - Excluído: C:\Users\edufa\Videos\Battle Academia Kayn.zip
